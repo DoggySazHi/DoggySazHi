@@ -8,12 +8,13 @@ I am also doing some of the Allen Wittry problems for fun.
 
 ## Who are you?
 I'm a high school (and soon to be college) student. I write programs for fun, and many of them go unpublished because I don't think they're appealing to the public.
-- Like look, [Minecraft sheep playing the "Bad Apple!!" PV!](https://williamle.com/Bad_Apple_Demo.mp4)
+- Like look, [Minecraft sheep playing the "Bad Apple!!" PV!](https://williamle.com/staticstuff/Bad_Apple_Demo.mp4)
 I program mostly in C# and Java, however I can do web development (see Modulr), machine learning in Python (internship code which I cannot publish), and C++ (an OpenGL personal project).
 
 ## Why?
 Mukyu.
-> I have an outdated website too: https://williamle.com
+> I have a website too: https://williamle.com  
+> Contact information can be found in the "About Me" page
 <!--
 *i also like playing touhou*
 neko miko reimu ai shiteru
