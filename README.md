@@ -2,7 +2,7 @@
 
 Hi, I program and stuff. There are two main projects that I work on here currently:
 - UNObot: A bot. That used to only play UNO. [Invite it!](https://invite-unobot.williamle.com)
-- Modulr: An online stipulator, written in C# (.NET 5) originally for Java programs, for use in a school/sandboxed environment.
+- Modulr: An online stipulator, written in C# (.NET 6) originally for Java programs, for use in a school/sandboxed environment.
 
 I am also doing some of the Allen Wittry problems for fun.
 
