@@ -13,9 +13,11 @@ I'm a sophomore college CSE student. I write programs for fun, and some I choose
 - Like look, [Minecraft sheep playing the "Bad Apple!!" PV!](https://williamle.com/staticstuff/Bad_Apple_Demo.mp4)
   - [Here's the code.](https://github.com/DoggySazHi/RCONHelper)
 
-I develop mostly in C# due to my familiarity with it, but:
+I develop mostly in .NET/C# due to my familiarity with it, but:
 - I'm proficient in Java, Rust, Python (data analysis/machine learning), and C++.
+- I do back-end development well, utilizing ASP.NET Core, SQL databases (MS-SQL Server and MySQL/MariaDB), and other smaller libraries depending on the task.
 - I can do web development (HTML/CSS/JS/TS, or frameworks like React or Vue), albeit I don't do this often.
+- Other miscellaneous tools I know/use: OpenCV (C++/Python), TensorFlow 2 + Keras (Python), Qt (C++), OpenGL (C++)
 
 ## Why?
 むきゅ。
