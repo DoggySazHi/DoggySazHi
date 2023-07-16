@@ -8,7 +8,7 @@ Hi, I program and stuff. There are two main projects that I work on here current
 
 *Note: I have been/will be updating these projects less frequently due to my internship with Walpole ITS.*
 
-## Who are you?
+## Who am I?
 I'm a junior college CSE student. I write programs for fun, and some I choose to publish here.
 - Like look, [Minecraft sheep playing the "Bad Apple!!" PV!](https://williamle.com/staticstuff/Bad_Apple_Demo.mp4)
   - [Here's the code.](https://github.com/DoggySazHi/RCONHelper)
