@@ -17,6 +17,8 @@ I develop mostly in .NET/C# due to my familiarity with it, but:
 - I can do web development (HTML/CSS/JS/TS, or frameworks like React or Vue), albeit I am not the biggest fan of it.
 - Other miscellaneous tools I know/use: OpenCV (C++/Python), TensorFlow 2 + Keras (Python), Qt (C++), OpenGL (C++)
 
+I currently work as a software developer/technical consultant for Sage X3 and Sage 100 with [Platform Technology Advisors](https://platformtechnologyadvisors.com/). In my downtime, I am also a software developer and system admin for [Gensokyo Reimagined](https://github.com/Gensokyo-Reimagined/), writing Minecraft Java plugins and maintaining the Docker server infrastructure.
+
 ## Why?
 むきゅ。
 > Check out my website: https://williamle.com  
